@@ -48,8 +48,8 @@ Launch Windows EC2 instance and connect using RDP.
 
 ```
 
-### REG NUMBER : ARAVINDHNATH TR
-### NAME : 212222100005
+### REG NUMBER : SURYA SK
+### NAME : 212222100052
 
 ## OUTPUT:
 S3 Bucket:
